@@ -33,7 +33,7 @@ void times_table(void)
 			}
 			if (b < 9)
 			{
-				_putchar('_');
+				_putchar(',');
 				_putchar(' ');
 			}
 			b++;
